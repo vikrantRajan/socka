@@ -15,7 +15,7 @@ const db = mysql.createConnection ({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'socka'
+    database: 'nodemysql'
 });
 
 // connect to database
